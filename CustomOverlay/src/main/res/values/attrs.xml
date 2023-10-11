@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomImageOverlayView">
+        <attr name="backgroundImageUri" format="string" />
+        <attr name="overlayText" format="string" />
+        <attr name="overlayTextColor" format="color" />
+        <attr name="overlayTextSize" format="dimension" />
+        <attr name="overlayTextX" format="dimension" />
+        <attr name="overlayTextY" format="dimension" />
+    </declare-styleable>
+</resources>
